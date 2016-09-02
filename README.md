@@ -1,6 +1,6 @@
 # Barclays Premier League Kits, 2016-27
 
-!https://github.com/cole007/bpl_kits/raw/master/kits-collage.png
+![Kits collage](https://github.com/cole007/bpl_kits/raw/master/kits-collage.png)
 
 Author: Cole Henley, [Our Name is Mud](http://ournameismud.co.uk/)
 

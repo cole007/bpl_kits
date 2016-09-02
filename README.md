@@ -1,5 +1,7 @@
 # Barclays Premier League Kits, 2016-27
 
+!https://github.com/cole007/bpl_kits/raw/master/kits-collage.png
+
 Author: Cole Henley, [Our Name is Mud](http://ournameismud.co.uk/)
 
 A selection of Raster and SVG images representing the home kits for the teams in the Barclays Premier League (2016-17).
